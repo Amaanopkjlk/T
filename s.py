@@ -11,7 +11,7 @@ import string
 logging.basicConfig(filename='bot.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7490938651:AAF7FpN64MpKaxk97Q9XmjbOX5lpb9Dkv-8')
+bot = telebot.TeleBot('7942127524:AAHbR_tVT2X1mFIqlMwEHf1DkD-4vz-MJkI')
 # Owner and admin user IDs
 owner_id = "7298594403"
 admin_ids = ["7298594403"]
